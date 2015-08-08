@@ -1,0 +1,37 @@
+<contacts>
+	<contact>
+		<id>1</id>
+		<last>SMITH</last>
+		<first>AUNDREA</first>
+		<phone>(800) 111-0001</phone>
+		<email>asmith@ign.com</email>
+	</contact>
+	<contact>
+		<id>2</id>
+		<last>JOHNSON</last>
+		<first>ROSALIA</first>
+		<phone>(800) 111-0002</phone>
+		<email>rjohnson@pricegrabber.com</email>
+	</contact>
+	<contact>
+		<id>3</id>
+		<last>WILLIAMS</last>
+		<first>SACHIKO</first>
+		<phone>(800) 111-0003</phone>
+		<email>swilliams@about.com</email>
+	</contact>
+	<contact>
+		<id>4</id>
+		<last>JONES</last>
+		<first>MARCO</first>
+		<phone>(800) 111-0004</phone>
+		<email>mjones@fixya.com</email>
+	</contact>
+	<contact>
+		<id>5</id>
+		<last>BROWN</last>
+		<first>ASLEY</first>
+		<phone>(800) 111-0005</phone>
+		<email>abrown@angelfire.com</email>
+	</contact>
+</contacts>
